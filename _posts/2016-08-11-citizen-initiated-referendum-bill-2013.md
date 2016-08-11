@@ -29,11 +29,11 @@ app_links: []
 isBasedOnUrl: >-
   http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=s900
 title: Citizen Initiated Referendum Bill 2013
-datePublished: '2016-08-11T03:49:37.848Z'
-dateModified: '2016-08-11T03:47:54.156Z'
+datePublished: '2016-08-11T03:59:29.624Z'
+dateModified: '2016-08-11T03:59:29.516Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-11-citizen-initiated-referendum-bill-2013.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
