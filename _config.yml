@@ -1,4 +1,4 @@
-typography_spectrum: 0.7650175902526826
+typography_spectrum: 0.2286027972586453
 color:
   brandStrength: 0.3726615842897445
   lightness: 0.09261517319828272
@@ -10,7 +10,7 @@ color:
     - '#F3AE0D'
     - '#60948A'
     - '#98BFBB'
-layout_spectrum: 0.5763025642372668
+layout_spectrum: 0.3341784898657352
 name: Renew Australia
 navigation:
   - name: Why?
