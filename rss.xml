@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Direct Democracy Politics]]></title>
         <description><![CDATA[Direct Democracy Politics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/renew-australia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 03:49:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 11 Aug 2016 03:49:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/renew-australia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Independent Australian]]></title>
+            <description><![CDATA[<article><h1>The Independent Australian</h1><p>We vote every election for a party with a mixture of policies which are mostly not very specific. After election the government does what it considers expedient. We can't force action on a specific issue about which we feel strongly.</p></article>]]></description>
+            <link>http://www.theindependentaustralian.com.au/node/34</link>
+            <guid isPermaLink="false">b0b9f6ed-d632-4597-b214-60cd670d5d34</guid>
+            <pubDate>Thu, 11 Aug 2016 03:49:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed72feb9-7749-4de2-8c58-f4c4121eadb5.jpg">]]></description>
-            <link>undefinedd391b326-6ebc-435c-8307-50bf83832f3f/index.html</link>
+            <link>https://thegrid.ai/renew-australia/d391b326-6ebc-435c-8307-50bf83832f3f/index.html</link>
             <guid isPermaLink="false">d391b326-6ebc-435c-8307-50bf83832f3f</guid>
             <pubDate>Thu, 11 Aug 2016 03:49:22 GMT</pubDate>
         </item>
