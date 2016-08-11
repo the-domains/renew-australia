@@ -4,8 +4,15 @@
         <description><![CDATA[Direct Democracy Politics]]></description>
         <link>https://thegrid.ai/renew-australia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 03:59:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 04:30:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/renew-australia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just Another Day In Western Australia]]></title>
+            <description><![CDATA[<article><h1>Just Another Day In Western Australia</h1><p>The official home of travel and tourism information for Western Australia. Find everything you need to know to plan your Australian holiday. Tourism Western Australia - Australian Holiday Destinations, Travel & Tourism Information.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2adfda51e7279eb8722fb3b482ef83d2/noop.jpg?input=http%3A%2F%2Fwww.westernaustralia.com%2FSiteCollectionImages%2Fthings%2520to%2520do%2Foutback%2520adventure%2Foutback-adventure.jpg%3FRenditionID%3D1"></article>]]></description>
+            <link>http://www.westernaustralia.com/au/Pages/Welcome_to_Western_Australia.aspx?cid=dgm:sem:au1516:intra:tourismwa&amp;gclid=CLa4k9_CuM4CFYOWvAod0xkNyA</link>
+            <guid isPermaLink="false">5046fd97-57ac-41d0-bc91-b655a0b337b5</guid>
+            <pubDate>Thu, 11 Aug 2016 04:30:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Citizen Initiated Referendum Bill 2013]]></title>
             <description><![CDATA[<article><h1>Citizen Initiated Referendum Bill 2013</h1><p>Enables Australian citizens to initiate legislation that provides for the holding of a referendum to alter the Constitution by: setting out the process to be followed and the requirements to be met; providing for rules applicable to the holding of a citizen initiated referendum; setting the first referendum year as 2016 and every fourth year after that; and providing for related miscellaneous matters.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.iniref.org/swiss-dd.html</link>
             <guid isPermaLink="false">37e7ef57-5a95-4d2f-ac1f-23374f32c70a</guid>
             <pubDate>Thu, 11 Aug 2016 03:49:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cdc23ad4-6e95-4697-a888-512f1281fb55.jpg">]]></description>
-            <link>https://thegrid.ai/renew-australia/a189af9b-9626-46aa-8a56-d87c02c8d6a8/index.html</link>
-            <guid isPermaLink="false">a189af9b-9626-46aa-8a56-d87c02c8d6a8</guid>
-            <pubDate>Thu, 11 Aug 2016 03:49:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
