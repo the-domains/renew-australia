@@ -6,9 +6,9 @@ color:
   saturation: 0.7813356302212924
   rhythmicContrast: 0.33855113643221557
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FDFDFD'
+    - '#00584A'
+    - '#F3AE0D'
+    - '#60948A'
+    - '#98BFBB'
 name: Renew Australia
