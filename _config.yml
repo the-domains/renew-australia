@@ -1,4 +1,3 @@
-layout_spectrum: 0.5763025642372668
 typography_spectrum: 0.7650175902526826
 color:
   brandStrength: 0.3726615842897445
@@ -11,4 +10,6 @@ color:
     - '#F3AE0D'
     - '#60948A'
     - '#98BFBB'
+layout_spectrum: 0.5763025642372668
 name: Renew Australia
+description: people for the people
