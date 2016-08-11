@@ -12,5 +12,10 @@ color:
     - '#98BFBB'
 layout_spectrum: 0.5763025642372668
 name: Renew Australia
+navigation:
+  - name: Why?
+    url: >-
+      http://www.abc.net.au/news/2016-04-08/wa-treasurer-slams-gst-carve-up/7309644
+    type: external
 title: Direct Democracy Politics
 description: people for the people
